@@ -18,7 +18,7 @@ RUN apt update && \
 RUN docker-php-ext-install zip
 RUN docker-php-ext-enable zip
 
-COPY docker/install-composer.sh /opt/src/composer/install-composer.sh
+COPY install-composer.sh /opt/src/composer/install-composer.sh
 RUN chmod +x /opt/src/composer/install-composer.sh
 RUN /opt/src/composer/install-composer.sh
 RUN ln -nfs /usr/local/bin/composer.phar /usr/local/bin/composer
