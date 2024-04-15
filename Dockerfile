@@ -1,8 +1,8 @@
-FROM php:8.2.4-cli
+FROM php:8.3.6-cli
 
 RUN pecl install ds
 
-RUN pecl install xdebug-3.2.1 && \
+RUN pecl install xdebug-3.3.2 && \
     echo "zend_extension=$(find /usr/local/lib/php/extensions/ -name xdebug.so)" > /usr/local/etc/php/conf.d/xdebug.ini &&  \
     echo "xdebug.mode = debug" >> /usr/local/etc/php/conf.d/xdebug.ini &&  \
     echo "xdebug.start_with_request = yes" >> /usr/local/etc/php/conf.d/xdebug.ini
