@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="NoColorbox" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoEsmImport" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoGetTranslation" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoInlineEventHandler" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoJQuerySelector" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoJqAttribute" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoJsVoidHrefTarget" enabled="true" level="Code Quality" enabled_by_default="true" />
+    <inspection_tool class="NoScriptTag" enabled="true" level="Code Quality" enabled_by_default="true" />
+  </profile>
+</component>
