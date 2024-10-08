@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5784d814-24f5-426a-a250-b6d5ca3569ba" name="Changes" comment="Add IntelliJ project config" />
+    <list default="true" id="5784d814-24f5-426a-a250-b6d5ca3569ba" name="Changes" comment="Add IntelliJ project config">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +29,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Huppys/php-dev-docker.git&quot;,
-    &quot;accountId&quot;: &quot;3c2abbc1-aa99-4e48-bd3b-bcd9c8a80a10&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Huppys/php-dev-docker.git",
+    "accountId": "78d1ffc3-7927-42d7-82f8-c17d7709b292"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="4qkwsou5" />
   </component>
