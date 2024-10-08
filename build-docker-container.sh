@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-docker build -t php-dev:8.3.6 .
+docker build -t php-dev:8.3.9 .
